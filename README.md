@@ -45,6 +45,9 @@ NaoMedical is a healthcare-focused web app that lets a **doctor** and a **patien
 - **Translation:** MyMemory REST API (no API key).
 - **Language detection:** Heuristic when “auto” is requested.
 - **Medical summary:** Groq API (`groq-sdk`), medical-scribe prompt, model `llama-3.1-8b-instant`.
+- **Prototyping:** Figma & Canva.
+- **ChatGPT and other Ai sites** Used for researching.
+- **Google Translate** Proof Checking of translated words.
 
 ---
 
@@ -173,3 +176,4 @@ naomedical/
 | `/api/health` | GET | Health check (no DB); returns `{ ok, vercel }` |
 
 ---
+
